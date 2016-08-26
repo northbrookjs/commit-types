@@ -1,0 +1,27 @@
+{
+  "name": "@northbrook/commit-types",
+  "version": "1.0.0",
+  "description": "Commit types for northbrook :)",
+  "main": "index.json",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northbrookjs/commit-types.git"
+  },
+  "keywords": [
+    "northbrook",
+    "conventional",
+    "commit",
+    "types",
+    "validate-commit-msg",
+    "ghooks"
+  ],
+  "author": "Tylor Steinberger <tlsteinberger167@gmail.com> (https://github.com/TylorS)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/northbrookjs/commit-types/issues"
+  },
+  "homepage": "https://github.com/northbrookjs/commit-types#readme"
+}

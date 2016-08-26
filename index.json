@@ -29,6 +29,9 @@
     },
     "release": {
       "description": "Marks a release for northbrook (not meant to be used directly by user)"
+    },
+    "WIP": {
+      "description": "A work-in-progress"
     }
   }
 }
